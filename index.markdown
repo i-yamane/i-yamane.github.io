@@ -15,7 +15,7 @@ Profile
 		<h1 class="title">Hello! I am...</h1>
 <div class="content" markdown="1">
 
-Ikko Yamane, a postdoctoral researcher at [Sugiyama-Sato-Honda Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
+Ikko Yamane, a postdoctoral researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
 
 I work on machine learning research, including multi-task learning, uplift modeling, and treatment effect estimation from weak supervision.
 
