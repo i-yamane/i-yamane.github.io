@@ -13,21 +13,24 @@ subtitle: The University of Tokyo/RIKEN AIP
 ## Conferences
 - Ikko Yamane, Florian Yger, Jamal Atif, and Masashi Sugiyama.<br />
 Uplift Modeling from Separate Labels.
-In <a href="https://nips.cc/Conferences/2018/"><i>Advances in Neural Information Processing Systems 31 (NeurIPS 2018)</i></a>,
+In _[Advances in Neural Information Processing Systems 31](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) ([NeurIPS 2018](https://nips.cc/Conferences/2018/))_,
 pp.9949-9959, 2018.<br />
-[<a href="https://arxiv.org/abs/1803.05112">paper on arXiv</a>, <a href="https://github.com/i-yamane/uplift">code on GitHub</a>]
+[[paper](https://papers.nips.cc/paper/8198-uplift-modeling-from-separate-labels),
+[arXiv version](https://arxiv.org/abs/1803.05112),
+[code on GitHub](https://github.com/i-yamane/uplift)]
 
 - Ikko Yamane, Florian Yger, Maxime Berar, and Masashi Sugiyama.<br />
 Multitask Principal Component Analysis.<br />
 In <a href="http://www.acml-conf.org/2016/"><i>the 8th Asian Conference on Machine Learning (ACML 2016)</i></a>,
 Proceedings of Machine Learning Research, vol.63, pp.302-317, 2016.<br />
-[<a href="http://proceedings.mlr.press/v63/yamane65.pdf">paper</a>, <a href="https://gitlab.com/yamane.ikko/MTPCA">code on GitLab</a>]
+[[paper](http://proceedings.mlr.press/v63/yamane65.pdf),
+[code on GitLab](https://gitlab.com/yamane.ikko/MTPCA)]
 
 - Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
 Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
-In <a href="https://icml.cc/Conferences/2020"><i>Thirty-seventh International Conference on Machine Learning (ICML 2020), to appear</i></a>,
+In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
 Proceedings of Machine Learning Research, vol.???, pp.???-???, 2020.<br />
-[[paper on arXiv](https://arxiv.org/abs/2002.08709),
+[[arXiv version](https://arxiv.org/abs/2002.08709),
 [code on GitHub](https://github.com/takashiishida/flooding)]
 
 
