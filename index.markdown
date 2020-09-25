@@ -41,11 +41,11 @@ I work on machine learning research including multi-task learning, uplift modeli
 		<ul class="content">
 <div markdown="1">  <!-- Don't indent!!! -->
 
-- Apr. 2015 &ndash; Mar. 2019: Ph.D. at The University of Tokyo
+- Apr. 2015&ndash;Mar. 2019: Ph.D. at The University of Tokyo
     - Supervisor: Professor Msashi Sugiyama
-- Apr. 2013 &ndash; Mar. 2015: M.Eng. at Tokyo Institute of Technology
+- Apr. 2013&ndash;Mar. 2015: M.Eng. at Tokyo Institute of Technology
     - Supervisor: Professor Masashi Sugiyama
-- Apr. 2009 &ndash; Mar. 2013: B.Sc. at Tokyo Institute of Technology
+- Apr. 2009&ndash;Mar. 2013: B.Sc. at Tokyo Institute of Technology
     - Supervisor: Professor Osamu Watanabe
 
 </div>
@@ -60,7 +60,7 @@ I work on machine learning research including multi-task learning, uplift modeli
 <div markdown="1">  <!-- Don't indent!!! -->
 
 - Sep. 2013: Experienced data analysis for web marketing on a distributed system as an intern at Yahoo! JAPAN
-- Apr. 2019&ndash;Aug. 2020: Postdoctoral researcher at Sugiyama-Honda-Yokoya Lab, the University of Tokyo.
+- Apr. 2019&ndash;Aug. 2020: Postdoctoral researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
 
 </div>
 			</ul>
