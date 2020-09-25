@@ -4,7 +4,7 @@
 
 layout: default
 title: Ikko Yamane, Postdoc Researcher
-subtitle: The University of Tokyo/RIKEN AIP
+subtitle: Paris-Dauphine University/RIKEN AIP
 ---
 <h1 class="content title">
 Profile
@@ -15,9 +15,9 @@ Profile
 		<h1 class="title">Hello! I am...</h1>
 <div class="content" markdown="1">
 
-Ikko Yamane, a postdoctoral researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
+Ikko Yamane, a postdoctoral researcher at [LAMSADE](https://www.lamsade.dauphine.fr/), Paris-Dauphine University.
 
-I work on machine learning research, including multi-task learning, uplift modeling, and treatment effect estimation from weak supervision.
+I work on machine learning research including multi-task learning, uplift modeling, and treatment effect estimation from weak supervision.
 
 </div>
 	</div>
@@ -30,7 +30,7 @@ I work on machine learning research, including multi-task learning, uplift model
 			<dt>Email</dt>
 			<dd><p>yamane@ms.k.u-tokyo.ac.jp</p></dd>
 			<dt>Address</dt>
-			<dd><p>5th floor of Transdisciplinary Science Building, 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8561, Japan</p></dd>
+			<dd><p>Place du Mar&eacute;chal de Lattre de Tassigny, 75775 PARIS Cedex 16, France</p></dd>
 		</dl>
 	</div>
 </section>
@@ -60,6 +60,7 @@ I work on machine learning research, including multi-task learning, uplift model
 <div markdown="1">  <!-- Don't indent!!! -->
 
 - Sep. 2013: Experienced data analysis for web marketing on a distributed system as an intern at Yahoo! JAPAN
+- Apr. 2019&ndash;Aug. 2020: Postdoctoral researcher at Sugiyama-Honda-Yokoya Lab, the University of Tokyo.
 
 </div>
 			</ul>
