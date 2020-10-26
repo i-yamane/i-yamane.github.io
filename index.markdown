@@ -28,7 +28,7 @@ I work on machine learning research including multi-task learning, uplift modeli
 		<h1 class="title">Contact</h1>
 		<dl class="content">
 			<dt>Email</dt>
-			<dd><p>yamane@ms.k.u-tokyo.ac.jp</p></dd>
+			<dd><p>ikko.yamane@dauphine.psl.eu</p></dd>
 			<dt>Address</dt>
 			<dd><p>Place du Mar&eacute;chal de Lattre de Tassigny, 75775 PARIS Cedex 16, France</p></dd>
 		</dl>
