@@ -4,7 +4,7 @@
 
 layout: default
 title: Ikko Yamane, Postdoc Researcher
-subtitle: The University of Tokyo/RIKEN AIP
+subtitle: Paris-Dauphine University/RIKEN AIP
 ---
 <div markdown="1" class="content">
 
