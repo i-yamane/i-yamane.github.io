@@ -15,14 +15,14 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 A One-step Approach to Covariate Shift Adaptation.<br />
 In _the 12th Asian Conference on Machine Learning ([ACML 2020](http://www.acml-conf.org/2020/))_,
 Proceedings of Machine Learning Research, vol.129, pp.65-80, 2020.<br />
-[[paper](http://proceedings.mlr.press/v129/zhang20a.html), [video](http://www.acml-conf.org/2020/video/paper/zhang20a)]
+[[paper](http://proceedings.mlr.press/v129/zhang20a.html), [video](http://www.acml-conf.org/2020/video/paper/zhang20a)] ([Best Paper Award!](http://www.acml-conf.org/2020/program/awards))
 
 - Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
 Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
 In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
 Proceedings of Machine Learning Research, vol.???, pp.???-???, 2020.<br />
 [[arXiv version](https://arxiv.org/abs/2002.08709),
-[code on GitHub](https://github.com/takashiishida/flooding)] ([Best Paper Award!](http://www.acml-conf.org/2020/program/awards))
+[code on GitHub](https://github.com/takashiishida/flooding)]
 
 - Ikko Yamane, Florian Yger, Jamal Atif, and Masashi Sugiyama.<br />
 Uplift Modeling from Separate Labels.
