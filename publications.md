@@ -11,6 +11,19 @@ subtitle: The University of Tokyo/RIKEN AIP
 # Publications
 
 ## Conferences
+- Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
+A One-step Approach to Covariate Shift Adaptation.<br />
+In _the 12th Asian Conference on Machine Learning ([ACML 2020](http://www.acml-conf.org/2020/))_,
+Proceedings of Machine Learning Research, vol.129, pp.65-80, 2020.<br />
+[[paper](http://proceedings.mlr.press/v129/zhang20a.html), [video](http://www.acml-conf.org/2020/video/paper/zhang20a)]
+
+- Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
+Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
+In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
+Proceedings of Machine Learning Research, vol.???, pp.???-???, 2020.<br />
+[[arXiv version](https://arxiv.org/abs/2002.08709),
+[code on GitHub](https://github.com/takashiishida/flooding)] ([Best Paper Award!](http://www.acml-conf.org/2020/program/awards))
+
 - Ikko Yamane, Florian Yger, Jamal Atif, and Masashi Sugiyama.<br />
 Uplift Modeling from Separate Labels.
 In _[Advances in Neural Information Processing Systems 31](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) ([NeurIPS 2018](https://nips.cc/Conferences/2018/))_,
@@ -25,13 +38,6 @@ In <a href="http://www.acml-conf.org/2016/"><i>the 8th Asian Conference on Machi
 Proceedings of Machine Learning Research, vol.63, pp.302-317, 2016.<br />
 [[paper](http://proceedings.mlr.press/v63/yamane65.pdf),
 [code on GitLab](https://gitlab.com/yamane.ikko/MTPCA)]
-
-- Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
-Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
-In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
-Proceedings of Machine Learning Research, vol.???, pp.???-???, 2020.<br />
-[[arXiv version](https://arxiv.org/abs/2002.08709),
-[code on GitHub](https://github.com/takashiishida/flooding)]
 
 
 ## Journal Articles
