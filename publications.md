@@ -20,7 +20,7 @@ Proceedings of Machine Learning Research, vol.129, pp.65-80, 2020.<br />
 - Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
 Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
 In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
-Proceedings of Machine Learning Research, vol.???, pp.???-???, 2020.<br />
+Proceedings of Machine Learning Research, vol.119, pp.4604-4614, 2020.<br />
 [[arXiv version](https://arxiv.org/abs/2002.08709),
 [code on GitHub](https://github.com/takashiishida/flooding)]
 
