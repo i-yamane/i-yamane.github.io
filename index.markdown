@@ -17,7 +17,8 @@ Profile
 
 Ikko Yamane, a postdoctoral researcher at [LAMSADE](https://www.lamsade.dauphine.fr/), Paris-Dauphine University.
 
-I work on machine learning research including multi-task learning, uplift modeling, and treatment effect estimation from weak supervision.
+I'm working on machine learning research.
+My research interests include multi-task learning, uplift modeling (treatment effect estimation), weakly supervised learning.
 
 </div>
 	</div>
