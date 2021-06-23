@@ -11,22 +11,27 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 # Publications
 
 ## Conferences
+- Ikko Yamane, Junya Honda, Florian Yger, and Masashi Sugiyama.<br />
+Mediated uncoupled learning: Learning functions without direct input-output correspondences.<br />
+In _Proceedings of the 38th International Conference on Machine Learning ([ICML 2021](https://icml.cc/Conferences/2021))_,
+Proceedings of Machine Learning Research, vol. --, pp. --, 2021.
+
 - Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
 A One-step Approach to Covariate Shift Adaptation.<br />
-In _the 12th Asian Conference on Machine Learning ([ACML 2020](http://www.acml-conf.org/2020/))_,
+In _Proceedings of the 12th Asian Conference on Machine Learning ([ACML 2020](http://www.acml-conf.org/2020/))_,
 Proceedings of Machine Learning Research, vol.129, pp.65-80, 2020.<br />
 [[ACML paper](http://proceedings.mlr.press/v129/zhang20a.html), [video](http://www.acml-conf.org/2020/video/paper/zhang20a)] ([Best Paper Award!](http://www.acml-conf.org/2020/program/awards))
 
 - Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, and Masashi Sugiyama.<br />
 Do We Need Zero Training Loss After Achieving Zero Training Error?<br />
-In _the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_,
+In _Proceedings of the 37th International Conference on Machine Learning ([ICML 2020](https://icml.cc/Conferences/2020))_
 Proceedings of Machine Learning Research, vol.119, pp.4604-4614, 2020.<br />
 [[ICML paper](http://proceedings.mlr.press/v119/ishida20a/ishida20a.pdf),
 [arXiv version](https://arxiv.org/abs/2002.08709),
 [code on GitHub](https://github.com/takashiishida/flooding)]
 
 - Ikko Yamane, Florian Yger, Jamal Atif, and Masashi Sugiyama.<br />
-Uplift Modeling from Separate Labels.
+Uplift Modeling from Separate Labels.<br />
 In _[Advances in Neural Information Processing Systems 31](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) ([NeurIPS 2018](https://nips.cc/Conferences/2018/))_,
 pp.9949-9959, 2018.<br />
 [[NeurIPS paper](https://papers.nips.cc/paper/8198-uplift-modeling-from-separate-labels),
@@ -35,13 +40,17 @@ pp.9949-9959, 2018.<br />
 
 - Ikko Yamane, Florian Yger, Maxime Berar, and Masashi Sugiyama.<br />
 Multitask Principal Component Analysis.<br />
-In <a href="http://www.acml-conf.org/2016/"><i>the 8th Asian Conference on Machine Learning (ACML 2016)</i></a>,
+In _Proceedings of the 8th Asian Conference on Machine Learning ([ACML 2016](http://www.acml-conf.org/2016/))_,
 Proceedings of Machine Learning Research, vol.63, pp.302-317, 2016.<br />
 [[ACML paper](http://proceedings.mlr.press/v63/yamane65.pdf),
 [code on GitLab](https://gitlab.com/yamane.ikko/MTPCA)]
 
 
 ## Journal Articles
+- Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
+A one-step approach to covariate shift adaptation.<br />
+_SN Computer Science_, to appear. 
+
 - Ikko Yamane, Hiroaki Sasaki, and Masashi Sugiyama.<br />
 Regularized Multi-Task Learning for Multi-Dimensional Log-Density Gradient Estimation.<br />
 <a href="https://www.mitpressjournals.org/loi/neco"><i>Neural Computation</i></a>, vol.28, no.6, pp.1388-1410, 2016.<br />
