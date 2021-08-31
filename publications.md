@@ -51,16 +51,17 @@ Proceedings of Machine Learning Research, vol.63, pp.302-317, 2016.<br />
 ## Journal Articles
 - Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
 A one-step approach to covariate shift adaptation.<br />
-_SN Computer Science_, to appear. 
+[_SN Computer Science_](https://www.springer.com/journal/42979). vol. 2, no. 319, 12 pages, 2021.<br />
+[[paper](https://link.springer.com/article/10.1007/s42979-021-00678-6#additional-information)]
 
 - Ikko Yamane, Hiroaki Sasaki, and Masashi Sugiyama.<br />
 Regularized Multi-Task Learning for Multi-Dimensional Log-Density Gradient Estimation.<br />
 <a href="https://www.mitpressjournals.org/loi/neco"><i>Neural Computation</i></a>, vol.28, no.6, pp.1388-1410, 2016.<br />
-[<a href="http://www.ms.k.u-tokyo.ac.jp/2016/MT-LSLDG.pdf">paper</a>]
+[[paper](http://www.ms.k.u-tokyo.ac.jp/2016/MT-LSLDG.pdf)]
 
 - Akinori Kawachi and Ikko Yamane.<br />
 A Fourier-Analytic Approach to List-Decoding for Sparse Random Linear Codes.<br />
 <i>IEICE Transactions on Information and Systems</i>, vol.E98-D, no.3, pp.532-540, 2015.<br />
-[<a href="https://www.jstage.jst.go.jp/article/transinf/E98.D/3/E98.D_2014FCP0016/_article">paper</a>]
+[[paper](https://www.jstage.jst.go.jp/article/transinf/E98.D/3/E98.D_2014FCP0016/_article)]
 
 </div>
