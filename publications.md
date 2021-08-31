@@ -12,7 +12,7 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 
 ## Conferences
 - Ikko Yamane, Junya Honda, Florian Yger, and Masashi Sugiyama.<br />
-Mediated uncoupled learning: Learning functions without direct input-output correspondences.<br />
+Mediated Uncoupled Learning: Learning Functions Without Direct Input-output Correspondences.<br />
 In _Proceedings of the 38th International Conference on Machine Learning ([ICML 2021](https://icml.cc/Conferences/2021))_,
 Proceedings of Machine Learning Research, vol.--, pp.--, 2021.<br />
 [[arXiv version (latest)]](https://arxiv.org/abs/2107.08135),
@@ -50,7 +50,7 @@ Proceedings of Machine Learning Research, vol.63, pp.302-317, 2016.<br />
 
 ## Journal Articles
 - Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
-A one-step approach to covariate shift adaptation.<br />
+A One-Step Approach to Covariate Shift Adaptation.<br />
 [_SN Computer Science_](https://www.springer.com/journal/42979). vol. 2, no. 319, 12 pages, 2021.<br />
 [[paper](https://link.springer.com/article/10.1007/s42979-021-00678-6#additional-information)]
 
