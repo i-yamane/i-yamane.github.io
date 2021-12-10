@@ -11,10 +11,16 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 # Publications
 
 ## Conferences
+- Futoshi Futami, Tomoharu Iwata, Naonori Ueda, Ikko Yamane.<br />
+Skew-symmetrically perturbed gradient flow for convex optimization.<br />
+In _Proceedings of the 13th Asian Conference on Machine Learning ([ACML 2021](http://www.acml-conf.org/2021))_,
+Proceedings of Machine Learning Research, vol. 157, pp. 721-736, 2021.<br />
+[[paper]](https://proceedings.mlr.press/v157/futami21a)
+
 - Ikko Yamane, Junya Honda, Florian Yger, and Masashi Sugiyama.<br />
 Mediated Uncoupled Learning: Learning Functions Without Direct Input-output Correspondences.<br />
 In _Proceedings of the 38th International Conference on Machine Learning ([ICML 2021](https://icml.cc/Conferences/2021))_,
-Proceedings of Machine Learning Research, vol.--, pp.--, 2021.<br />
+Proceedings of Machine Learning Research, vol. 139, pp. 11637-11647, 2021.<br />
 [[arXiv version (latest)]](https://arxiv.org/abs/2107.08135),
 [[code on GitHub]](https://github.com/i-yamane/mediated_uncoupled_learning)
 
