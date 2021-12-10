@@ -11,7 +11,7 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 # Publications
 
 ## Conferences
-- Futoshi Futami, Tomoharu Iwata, Naonori Ueda, Ikko Yamane.<br />
+- Futoshi Futami, Tomoharu Iwata, Naonori Ueda, and Ikko Yamane.<br />
 Skew-symmetrically perturbed gradient flow for convex optimization.<br />
 In _Proceedings of the 13th Asian Conference on Machine Learning ([ACML 2021](http://www.acml-conf.org/2021))_,
 Proceedings of Machine Learning Research, vol. 157, pp. 721-736, 2021.<br />
