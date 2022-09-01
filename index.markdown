@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Ikko Yamane, Postdoc Researcher
-subtitle: Paris-Dauphine University/RIKEN AIP
+title: Ikko Yamane, Assistant Professor
+subtitle: ENSAI/CREST
 ---
 <h1 class="content title">
 Profile
@@ -12,13 +12,12 @@ Profile
 
 <section class="section">
 	<div class="container">
-		<h1 class="title">Hello! I am...</h1>
 <div class="content" markdown="1">
 
-Ikko Yamane, a postdoctoral researcher at [LAMSADE](https://www.lamsade.dauphine.fr/), Paris-Dauphine University.
+Hello! I'm Ikko Yamane, an assistant professor at [ENSAI](https://ensai.fr/en/)/[CREST](https://crest.science/).
 
 I'm working on machine learning research.
-My research interests include multi-task learning, uplift modeling (treatment effect estimation), weakly supervised learning.
+My research interests include multi-task learning, treatment effect estimation, and weakly supervised learning.
 
 </div>
 	</div>
@@ -29,9 +28,12 @@ My research interests include multi-task learning, uplift modeling (treatment ef
 		<h1 class="title">Contact</h1>
 		<dl class="content">
 			<dt>Email</dt>
-			<dd><p>ikko.yamane@dauphine.psl.eu</p></dd>
+			<dd><p>ikko.yamane [at] ensai [dot] fr</p></dd>
 			<dt>Address</dt>
-			<dd><p>Place du Mar&eacute;chal de Lattre de Tassigny, 75775 PARIS Cedex 16, France</p></dd>
+			<dd><p>Campus de Ker-Lann,</br>
+			51 Rue Blaise Pascal</br>
+		BP 37203 – 35172 BRUZ Cedex</br>
+FRANCE</p></dd>
 		</dl>
 	</div>
 </section>
@@ -43,11 +45,11 @@ My research interests include multi-task learning, uplift modeling (treatment ef
 <div markdown="1">  <!-- Don't indent!!! -->
 
 - Apr. 2015&ndash;Mar. 2019: Ph.D. at The University of Tokyo
-    - Supervisor: Professor Msashi Sugiyama
+    - Advisor: Prof. Msashi Sugiyama
 - Apr. 2013&ndash;Mar. 2015: M.Eng. at Tokyo Institute of Technology
-    - Supervisor: Professor Masashi Sugiyama
+    - Advisor: Prof. Masashi Sugiyama
 - Apr. 2009&ndash;Mar. 2013: B.Sc. at Tokyo Institute of Technology
-    - Supervisor: Professor Osamu Watanabe
+    - Advisor: Prof. Osamu Watanabe
 
 </div>
 		</ul>
@@ -59,10 +61,11 @@ My research interests include multi-task learning, uplift modeling (treatment ef
 		<h1 class="title">Work Experience</h1>
 			<ul class="content">
 <div markdown="1">  <!-- Don't indent!!! -->
-
-- Sep. 2013: Experienced data analysis for web marketing on a distributed system as an intern at Yahoo! JAPAN
+	
+- Oct. 2020&ndash;Sep. 2022: Postdoctoral researcher at [LAMSADE](https://www.lamsade.dauphine.fr), Université Paris Dauphine.
 - Apr. 2019&ndash;Aug. 2020: Postdoctoral researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
-
+- Sep. 2013: Experienced data analysis for web marketing on a distributed system as an intern at Yahoo! JAPAN
+	
 </div>
 			</ul>
 	</div>
@@ -73,7 +76,7 @@ My research interests include multi-task learning, uplift modeling (treatment ef
 		<h1 class="title">Other Activities</h1>
 		<dl class="content">
 			<dt>June&ndash;August, 2016; May&ndash;July, 2016; Aug 2018</dt>
-			<dd><p>Visited <a href="https://www.lamsade.dauphine.fr">LAMSADE</a> at Paris-Dauphine University</p></dd>
+			<dd><p>Visited <a href="https://www.lamsade.dauphine.fr">LAMSADE</a> at Université Paris Dauphine</p></dd>
 		</dl>
 	</div>
 </section>
