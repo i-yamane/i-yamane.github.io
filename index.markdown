@@ -30,9 +30,9 @@ My research interests include multi-task learning, treatment effect estimation, 
 			<dt>Email</dt>
 			<dd><p>ikko.yamane [at] ensai [dot] fr</p></dd>
 			<dt>Address</dt>
-			<dd><p>Campus de Ker-Lann,</br>
-			51 Rue Blaise Pascal</br>
-		BP 37203 – 35172 BRUZ Cedex</br>
+			<dd><p>Campus de Ker-Lann,<br />
+			51 Rue Blaise Pascal<br />
+		BP 37203 – 35172 BRUZ Cedex<br />
 FRANCE</p></dd>
 		</dl>
 	</div>
