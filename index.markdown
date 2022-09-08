@@ -6,15 +6,12 @@ layout: default
 title: Ikko Yamane, Assistant Professor
 subtitle: ENSAI/CREST
 ---
-<h1 class="content title">
-Profile
-</h1>
 
 <section class="section">
 	<div class="container">
 <div class="content" markdown="1">
 
-Hello! I'm Ikko Yamane, an assistant professor at [ENSAI](https://ensai.fr/en/)/[CREST](https://crest.science/).
+Hello! I'm Ikko Yamane, an Assistant Professor of the Computer Science Department at [ENSAI](https://ensai.fr/en/)/[CREST](https://crest.science/).
 
 I'm working on machine learning research.
 My research interests include multi-task learning, treatment effect estimation, and weakly supervised learning.
@@ -30,10 +27,12 @@ My research interests include multi-task learning, treatment effect estimation, 
 			<dt>Email</dt>
 			<dd><p>ikko.yamane [at] ensai [dot] fr</p></dd>
 			<dt>Address</dt>
-			<dd><p>Campus de Ker-Lann,<br />
+			<dd><p>
+			ENSAI<br />
+			Campus de Ker-Lann<br />
 			51 Rue Blaise Pascal<br />
-		BP 37203&ndash;35172 BRUZ Cedex<br />
-FRANCE</p></dd>
+			BP 37203<br />
+			35172 BRUZ Cedex FRANCE</p></dd>
 		</dl>
 	</div>
 </section>
