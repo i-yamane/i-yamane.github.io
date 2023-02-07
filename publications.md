@@ -14,7 +14,7 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 - Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, and Masashi Sugiyama.<br />
 Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br />
 In _Proceedings of 11th International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023))_, to appear.<br />
-[[OpenReview](https://openreview.net/pdf?id=FZdJQgy05rz)]
+[[OpenReview](https://openreview.net/forum?id=FZdJQgy05rz)]
 
 - Ikko Yamane, Yann Chevaleyre, Takashi Ishida, and Florian Yger.
 Mediated Uncoupled Learning and Validation with Bregman Divergences: Loss Family with Maximal Generality.<br />
