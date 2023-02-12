@@ -1,16 +1,16 @@
 html {
-    font-size: 20px;
+    font-size: 18px;
     @include tablet {
         font-size: 16px;
     }
     @include desktop {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
 .sticky	{
     position: sticky;
-    top: 30px;
+    top: 26px;
 }
 
 .footer {
