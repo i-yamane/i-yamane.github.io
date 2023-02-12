@@ -16,7 +16,7 @@ Is the performance of my deep network too good to be true? A direct approach to 
 In _Proceedings of 11th International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023))_, to appear.<br />
 [[OpenReview](https://openreview.net/forum?id=FZdJQgy05rz)]
 
-- Ikko Yamane, Yann Chevaleyre, Takashi Ishida, and Florian Yger.
+- Ikko Yamane, Yann Chevaleyre, Takashi Ishida, and Florian Yger.<br />
 Mediated Uncoupled Learning and Validation with Bregman Divergences: Loss Family with Maximal Generality.<br />
 In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics ([AISTATS 2023](https://virtual.aistats.org/Conferences/2023))_, to appear.
 
