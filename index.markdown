@@ -61,8 +61,9 @@ My research interests include multi-task learning, treatment effect estimation, 
 			<ul class="content">
 <div markdown="1">  <!-- Don't indent!!! -->
 	
-- Oct. 2020&ndash;Sep. 2022: Postdoctoral researcher at [LAMSADE](https://www.lamsade.dauphine.fr), Université Paris Dauphine.
-- Apr. 2019&ndash;Aug. 2020: Postdoctoral researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
+- Sep. 2022&ndash;Present: Assistant Professor at [ENSAI](https://ensai.fr/en/)/[CREST](https://crest.science/)
+- Oct. 2020&ndash;Sep. 2022: Postdoctoral Researcher at [LAMSADE](https://www.lamsade.dauphine.fr), Université Paris Dauphine.
+- Apr. 2019&ndash;Aug. 2020: Postdoctoral Researcher at [Sugiyama-Honda-Yokoya Lab](http://www.ms.k.u-tokyo.ac.jp/), the University of Tokyo.
 - Sep. 2013: Experienced data analysis for web marketing on a distributed system as an intern at Yahoo! JAPAN
 	
 </div>
