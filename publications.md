@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Ikko Yamane, Postdoc Researcher
+title: Ikko Yamane, Assistant Professor
 subtitle: Paris-Dauphine University/RIKEN AIP
 ---
 <div markdown="1" class="content">
