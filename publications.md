@@ -13,12 +13,13 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 ## Conferences
 - Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, and Masashi Sugiyama.<br />
 Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br />
-In _Proceedings of 11th International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023))_, to appear.<br />
+In _Proceedings of 11th International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023))_, 2023.<br />
 [[OpenReview](https://openreview.net/forum?id=FZdJQgy05rz)]
 
 - Ikko Yamane, Yann Chevaleyre, Takashi Ishida, and Florian Yger.<br />
 Mediated Uncoupled Learning and Validation with Bregman Divergences: Loss Family with Maximal Generality.<br />
-In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics ([AISTATS 2023](https://virtual.aistats.org/Conferences/2023))_, to appear.
+In _Proceedings of the 26th International Conference on Artificial Intelligence and Statistics ([AISTATS 2023](https://virtual.aistats.org/Conferences/2023))_, Proceedings of Machine Learning Research, vol. 206, pp. 4768-4801, 2023.<br />
+[[paper]](https://proceedings.mlr.press/v206/yamane23a/yamane23a.pdf)
 
 - Futoshi Futami, Tomoharu Iwata, Naonori Ueda, and Ikko Yamane.<br />
 Skew-symmetrically perturbed gradient flow for convex optimization.<br />
