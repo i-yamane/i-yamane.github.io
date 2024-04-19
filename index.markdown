@@ -13,7 +13,7 @@ subtitle: ENSAI/CREST
 
 Hello! I'm Ikko Yamane, an Assistant Professor (Enseignant-Chercheur) in Computer Science at [ENSAI](https://ensai.fr/en/)/[CREST](https://crest.science/).
 
-I'm working on machine learning research.
+I am working on machine learning research.
 My research interests include multi-task learning, treatment effect estimation, and weakly supervised learning.
 
 </div>
