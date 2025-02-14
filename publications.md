@@ -65,9 +65,14 @@ Proceedings of Machine Learning Research, vol. 63, pp. 302-317, 2016.<br />
 
 
 ## Journal Articles
+- François Portier, Lionel Truquet, and Ikko Yamane. <br />
+Nearest Neighbor Sampling for Covariate Shift Adaptation.<br />
+_Journal of Machine Learning Research_, vol. 25, no. 410, pp. 1-42, 2024.<br />
+[[paper](http://jmlr.org/papers/v25/24-0890.html)]
+
 - Tianyi Zhang, Ikko Yamane, Nan Lu, and Masashi Sugiyama.<br />
 A One-Step Approach to Covariate Shift Adaptation.<br />
-[_SN Computer Science_](https://www.springer.com/journal/42979). vol. 2, no. 319, 12 pages, 2021.<br />
+[_SN Computer Science_](https://www.springer.com/journal/42979), vol. 2, no. 319, 12 pages, 2021.<br />
 [[paper](https://link.springer.com/article/10.1007/s42979-021-00678-6#additional-information)]
 
 - Ikko Yamane, Hiroaki Sasaki, and Masashi Sugiyama.<br />
