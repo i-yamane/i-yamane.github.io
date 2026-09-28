@@ -11,6 +11,11 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 # Publications
 
 ## Conferences
+- Takashi Ishida, Thanawat Lodkaew, and Ikko Yamane.<br />
+CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting.<br />
+In _Forty-Third International Conference on Machine Learning ([ICML 2026](https://icml.cc/Conferences/2026))_, 2026.<br />
+[[paper](https://arxiv.org/abs/2505.18102)]], [[blog](https://ishida-lab.github.io/blog_capbencher.html)], [[code](https://github.com/ishida-lab/CapBencher)], [[dataset](https://huggingface.co/datasets/ishidalab/capbencher)]
+
 - Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, and Masashi Sugiyama.<br />
 Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br />
 In _Proceedings of 11th International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023))_, 2023.<br />
@@ -65,6 +70,11 @@ Proceedings of Machine Learning Research, vol. 63, pp. 302-317, 2016.<br />
 
 
 ## Journal Articles
+- Simon Viel, Lionel Truquet, and Ikko Yamane.<br />
+Convergence rate for nearest neighbour matching: geometry of the domain and higher-order regularity.<br />
+_Bernoulli_, to appear.<br />
+[[preprint](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/72091?confirm=d35f42c8)]
+	
 - François Portier, Lionel Truquet, and Ikko Yamane. <br />
 Nearest Neighbor Sampling for Covariate Shift Adaptation.<br />
 _Journal of Machine Learning Research_, vol. 25, no. 410, pp. 1-42, 2024.<br />
