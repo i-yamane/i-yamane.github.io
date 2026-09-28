@@ -14,7 +14,7 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 - Takashi Ishida, Thanawat Lodkaew, and Ikko Yamane.<br />
 CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting.<br />
 In _Forty-Third International Conference on Machine Learning ([ICML 2026](https://icml.cc/Conferences/2026))_, 2026.<br />
-[[paper](https://arxiv.org/abs/2505.18102)]], [[blog](https://ishida-lab.github.io/blog_capbencher.html)], [[code](https://github.com/ishida-lab/CapBencher)], [[dataset](https://huggingface.co/datasets/ishidalab/capbencher)]
+[[paper](https://arxiv.org/abs/2505.18102)], [[blog](https://ishida-lab.github.io/blog_capbencher.html)], [[code](https://github.com/ishida-lab/CapBencher)], [[dataset](https://huggingface.co/datasets/ishidalab/capbencher)]
 
 - Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, and Masashi Sugiyama.<br />
 Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br />
