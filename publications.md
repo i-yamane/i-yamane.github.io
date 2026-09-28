@@ -13,8 +13,8 @@ subtitle: Paris-Dauphine University/RIKEN AIP
 ## Conferences
 - Takashi Ishida, Thanawat Lodkaew, and Ikko Yamane.<br />
 CapBencher: Give Your LLM Benchmark a Built-in Alarm for Test-Set Overfitting.<br />
-In _Forty-Third International Conference on Machine Learning ([ICML 2026](https://icml.cc/Conferences/2026))_, 2026.<br />
-[[paper](https://arxiv.org/abs/2505.18102)], [[blog](https://ishida-lab.github.io/blog_capbencher.html)], [[code](https://github.com/ishida-lab/CapBencher)], [[dataset](https://huggingface.co/datasets/ishidalab/capbencher)]
+In _43rd International Conference on Machine Learning ([ICML 2026](https://icml.cc/Conferences/2026))_, 2026.<br />
+[[paper](https://openreview.net/pdf?id=oCNT5PcMSQ)] [[arxiv](https://arxiv.org/abs/2505.18102)] [[blog](https://ishida-lab.github.io/blog_capbencher.html)] [[code](https://github.com/ishida-lab/CapBencher)], [[dataset](https://huggingface.co/datasets/ishidalab/capbencher)]
 
 - Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, and Masashi Sugiyama.<br />
 Is the performance of my deep network too good to be true? A direct approach to estimating the Bayes error in binary classification.<br />
@@ -55,7 +55,7 @@ Proceedings of Machine Learning Research, vol. 119, pp. 4604-4614, 2020.<br />
 
 - Ikko Yamane, Florian Yger, Jamal Atif, and Masashi Sugiyama.<br />
 Uplift Modeling from Separate Labels.<br />
-In _[Advances in Neural Information Processing Systems 31](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) ([NeurIPS 2018](https://nips.cc/Conferences/2018/))_,
+In _Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018/))_,
 pp. 9949-9959, 2018.<br />
 [[NeurIPS paper](https://papers.nips.cc/paper/8198-uplift-modeling-from-separate-labels),
 [arXiv version](https://arxiv.org/abs/1803.05112),
@@ -72,7 +72,7 @@ Proceedings of Machine Learning Research, vol. 63, pp. 302-317, 2016.<br />
 ## Journal Articles
 - Simon Viel, Lionel Truquet, and Ikko Yamane.<br />
 Convergence rate for nearest neighbour matching: geometry of the domain and higher-order regularity.<br />
-_Bernoulli_, to appear.<br />
+_[Bernoulli](https://bernoullisociety.org/publications/bernoulli-journal/bernoulli-journal-papers)_, to appear.<br />
 [[preprint](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/72091?confirm=d35f42c8)]
 	
 - François Portier, Lionel Truquet, and Ikko Yamane. <br />
